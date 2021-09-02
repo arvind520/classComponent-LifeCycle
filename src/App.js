@@ -1,6 +1,6 @@
 import "./styles.css";
 import { Component } from "react";
-
+//Mount, Update, Unmount
 class Counter extends Component {
   constructor(props) {
     //! M-1
